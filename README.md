@@ -24,6 +24,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ![image](https://github.com/xiaofangl/hasan/blob/master/tupian/1_login.jpeg?raw=true)
 ![image](https://github.com/xiaofangl/hasan/blob/master/tupian/nopermission.jpeg?raw=true)
 ![image](https://github.com/xiaofangl/hasan/blob/master/tupian/admindopermission.jpeg?raw=true)
+![image](https://github.com/xiaofangl/hasan/blob/master/tupian/WechatIMG2166.jpeg?raw=true)
 
 ![image](https://github.com/xiaofangl/hasan/blob/master/tupian/WechatMG2166.jpeg?raw=true)
 ![image](https://github.com/xiaofangl/hasan/blob/master/tupian/chengongmyself.jpeg?raw=true)
